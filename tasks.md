@@ -7,7 +7,7 @@
 - [x] Develop `XpTracker` & `ModuleCompletion` Vue components.
 - [x] Build **Settings Modal** for API Key management.
 - [x] Set up **GitHub Repository** and push code.
-- [ ] Add GitHub Actions for automated deployment.
+- [x] Add GitHub Actions for automated deployment.
 - [ ] Implement **Pyodide** integration for interactive Python labs.
 - [ ] Add site search (Fuse.js).
 
