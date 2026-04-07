@@ -30,18 +30,18 @@
 | **Topic 11:** RAG (Retrieval-Augmented Gen) | 4 | ✅ |
 | **Topic 12:** Workflow Automation | 5 | ✅ |
 | **Topic 13:** Multi-Agent Systems | 5 | ✅ |
-| **Topic 14:** Evaluation & Reliability Testing | 6 | ⏳ |
-| **Topic 15:** Deployment (FastAPI, Docker) | 6 | ⏳ |
-| **Topic 16:** Security & Governance | 6 | ⏳ |
-| **Topic 17:** Observability (Metrics, Logging) | 6 | ⏳ |
-| **Topic 18:** Frameworks Deep Dive (LangChain, CrewAI) | 6 | ⏳ |
+| **Topic 14:** Evaluation & Reliability Testing | 6 | ✅ |
+| **Topic 15:** Deployment (FastAPI, Docker) | 6 | ✅ |
+| **Topic 16:** Security & Governance | 6 | ✅ |
+| **Topic 17:** Observability (Metrics, Logging) | 6 | ✅ |
+| **Topic 18:** Frameworks Deep Dive (LangChain, CrewAI) | 6 | ✅ |
 
 ---
 
 ## 🛠️ Upcoming Technical Tasks
-1.  **Module 6 (Production):** Complete the final technical modules.
-2.  **Pyodide Lab:** Integrate a real-time Python execution engine.
-3.  **Visual Assets:** Generate more Mermaid diagrams for RAG and Multi-agent.
+1.  **Pyodide Lab:** Integrate a real-time Python execution engine.
+2.  **Visual Assets:** Generate more Mermaid diagrams for the platform.
+3.  **Community:** Add a leaderboard for global XP tracking.
 
 ---
 **Status Key:**
