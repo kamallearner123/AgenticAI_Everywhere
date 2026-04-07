@@ -19,16 +19,16 @@
 | :--- | :---: | :---: |
 | **Topic 1:** Python Programming Essentials | 1 | ✅ |
 | **Topic 2:** Async Programming | 1 | ✅ |
-| **Topic 3:** REST APIs & JSON Handling | 1 | ⏳ |
-| **Topic 4:** Linux Basics for AI Engineers | 1 | ⏳ |
-| **Topic 5:** Data Handling (JSON, CSV, PDF, Image) | 1 | ⏳ |
+| **Topic 3:** REST APIs & JSON Handling | 1 | ✅ |
+| **Topic 4:** Linux Basics for AI Engineers | 1 | ✅ |
+| **Topic 5:** Data Handling (JSON, CSV, PDF, Image) | 1 | ✅ |
 | **Topic 6:** LLM Fundamentals | 2 | ✅ |
-| **Topic 7:** Prompt Engineering Mastery | 2 | ⏳ |
+| **Topic 7:** Prompt Engineering Mastery | 2 | ✅ |
 | **Topic 8:** Tool & Function Calling | 3 | ✅ |
-| **Topic 9:** Agent Architecture (ReAct, Planner) | 3 | ⏳ |
+| **Topic 9:** Agent Architecture (ReAct, Planner) | 3 | ✅ |
 | **Topic 10:** Memory Systems (Vector DBs) | 3 | ✅ |
 | **Topic 11:** RAG (Retrieval-Augmented Gen) | 4 | ✅ |
-| **Topic 12:** Workflow Automation | 5 | ⏳ |
+| **Topic 12:** Workflow Automation | 5 | ✅ |
 | **Topic 13:** Multi-Agent Systems | 5 | ✅ |
 | **Topic 14:** Evaluation & Reliability Testing | 6 | ⏳ |
 | **Topic 15:** Deployment (FastAPI, Docker) | 6 | ⏳ |
@@ -39,9 +39,9 @@
 ---
 
 ## 🛠️ Upcoming Technical Tasks
-1.  **Refine "Module 1" content:** Write remaining topics (3, 4, 5).
-2.  **Interactive Elements:** Add live MCQ knowledge checks at the end of each topic.
-3.  **Visuals:** Generate hero assets and illustrative diagrams for complex Agent patterns.
+1.  **Module 6 (Production):** Complete the final technical modules.
+2.  **Pyodide Lab:** Integrate a real-time Python execution engine.
+3.  **Visual Assets:** Generate more Mermaid diagrams for RAG and Multi-agent.
 
 ---
 **Status Key:**
