@@ -63,7 +63,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/kamal/GoogleAgenticAICourse' }
     ],
     footer: {
-      message: 'Released under the Apache 2.0 License.',
+      message: 'Found a bug? [Raise an Issue](https://github.com/kamallearner123/AgenticAI_Everywhere/issues/new/choose)',
       copyright: 'Copyright © 2026 APT Computing Labs'
     }
   },
