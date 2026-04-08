@@ -15,7 +15,7 @@ Create a professional, gamified learning platform for **Agentic AI** using a hig
 1.  **Module 1 (Novice):** Foundations (Python, Async, Linux, Data).
 2.  **Module 2 (Apprentice):** LLM Core (Tokens, Context, Prompt Engineering).
 3.  **Module 3 (Agent Builder):** Intelligence (Tool Calling, Architecture, Memory).
-4.  **Module 4 (Knowledge Engineer):** Retrieval (RAG, Chunking, Vector DBs).
+4.  **Module 4 (Knowledge Engineer):** Retrieval Systems (Problems with LLMs, Fine-tuning vs RAG, Vector Stores, Advanced Retrieval, Mini-Project).
 5.  **Module 5 (Orchestrator):** Automation (Workflows, Multi-Agent Systems).
 6.  **Module 6 (Agent Architect):** Production (Reliability, Security, Observability).
 
@@ -29,7 +29,7 @@ Create a professional, gamified learning platform for **Agentic AI** using a hig
 - [x] Layout & Landing Page Polish.
 
 ### Phase 2: Content Marathon
-- [ ] Writing detailed Markdown for all 18 topics.
+- [ ] Writing detailed Markdown for all 25 topics.
 - [ ] Integrating Mermaid diagrams into all relevant lessons.
 - [ ] Interactive MCQs for every module endpoint.
 

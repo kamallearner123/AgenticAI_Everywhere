@@ -27,14 +27,21 @@
 | **Topic 8:** Tool & Function Calling | 3 | ✅ |
 | **Topic 9:** Agent Architecture (ReAct, Planner) | 3 | ✅ |
 | **Topic 10:** Memory Systems (Vector DBs) | 3 | ✅ |
-| **Topic 11:** RAG (Retrieval-Augmented Gen) | 4 | ✅ |
-| **Topic 12:** Workflow Automation | 5 | ✅ |
-| **Topic 13:** Multi-Agent Systems | 5 | ✅ |
-| **Topic 14:** Evaluation & Reliability Testing | 6 | ✅ |
-| **Topic 15:** Deployment (FastAPI, Docker) | 6 | ✅ |
-| **Topic 16:** Security & Governance | 6 | ✅ |
-| **Topic 17:** Observability (Metrics, Logging) | 6 | ✅ |
-| **Topic 18:** Frameworks Deep Dive (LangChain, CrewAI) | 6 | ✅ |
+| **Topic 11:** Problems with LLMs (Hallucinations, Outdated Info) | 4 | ⏳ |
+| **Topic 12:** Difficulties with fine-tuning (Cost, Data, Staleness) | 4 | ⏳ |
+| **Topic 13:** Introduction to Retrieval Systems | 4 | ⏳ |
+| **Topic 14:** RAG Fundamentals (ETL, Chunking, Retrieval Loops) | 4 | ✅ |
+| **Topic 15:** Vector Stores & Embeddings (FAISS, Pinecone) | 4 | ⏳ |
+| **Topic 16:** Advanced Retrieval (HyDE, Multi-Hop) | 4 | ⏳ |
+| **Topic 17:** Mini Project: Building a RAG Agent for personal details | 4 | ⏳ |
+| **Topic 18:** Issues with third party LLMs (Rate limits, Cost, Privacy) | 4 | ⏳ |
+| **Topic 19:** Workflow Automation | 5 | ✅ |
+| **Topic 20:** Multi-Agent Systems | 5 | ✅ |
+| **Topic 21:** Evaluation & Reliability Testing | 6 | ✅ |
+| **Topic 22:** Deployment (FastAPI, Docker) | 6 | ✅ |
+| **Topic 23:** Security & Governance | 6 | ✅ |
+| **Topic 24:** Observability (Metrics, Logging) | 6 | ✅ |
+| **Topic 25:** Frameworks Deep Dive (LangChain, CrewAI) | 6 | ✅ |
 
 ---
 
