@@ -26,7 +26,7 @@ This project has successfully created a complete, professional, gamified learnin
 The portal is organized into 6 interactive modules, all of which are **100% completed and deployed**.
 
 ### Module 1: Foundations (Novice)
-- [x] Python Programming Essentials
+- [x] Python Programming Essentials, with all the topics in Python (Data strctures, conditions, oops, modules, etc)
 - [x] Async Programming (Event Loop, Concurrency)
 - [x] REST APIs & JSON Handling
 - [x] Linux Basics for AI Engineers
