@@ -1,0 +1,11 @@
+1) Set your key:Bash
+export XAI_API_KEY=sk-...   # (the one you get from x.ai)
+
+2) Install dependencies (once):Bash
+pip install openai feedparser
+
+3) Run with your interest:Bash
+python get_news.py --interest "artificial intelligence, startups, and technology in India"
+
+
+
